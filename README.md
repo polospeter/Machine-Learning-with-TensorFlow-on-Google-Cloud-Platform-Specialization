@@ -29,13 +29,18 @@ What is machine learning, and what kinds of problems can it solve? Google thinks
 ### Course 2: Launching into Machine Learning
 Starting from a history of machine learning, we discuss why neural networks today perform so well in a variety of data science problems. We then discuss how to set up a supervised learning problem and find a good solution using gradient descent. This involves creating datasets that permit generalization; we talk about methods of doing so in a repeatable way that supports experimentation.
 
-#### Week 2:
+#### Week 1:
 
 - Identify why deep learning is currently popular
 - Optimize and evaluate models using loss functions and performance metrics
 - Mitigate common problems that arise in machine learning
 - Create repeatable training, evaluation, and test datasets
 
+#### Week 2:
+
+#### Week 3:
+
+#### Week 4:
 
 
 ### Course 3: Introduction to TensorFlow
