@@ -44,6 +44,11 @@ Starting from a history of machine learning, we discuss why neural networks toda
 
 #### Week 3:
 
+- Quantify model performance using loss functions
+- Use loss functions as the basis for an algorithm called gradient descent
+- Optimize gradient descent to be as efficient as possible
+- Use performance metrics to make business decisions
+
 #### Week 4:
 
 
