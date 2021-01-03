@@ -9,14 +9,10 @@ What is machine learning, and what kinds of problems can it solve? Google thinks
 
 #### Week 1
 
-Learning Objectives:
-
 - Use machine learning to transform the way you do business
 
 
 #### Week 2
-
-Learning Objectives:
 
 - Acquire the organizational know-how to implement machine learning.
 - Leverage Google's experience to avoid common pitfalls.
