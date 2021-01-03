@@ -38,9 +38,9 @@ Starting from a history of machine learning, we discuss why neural networks toda
 
 #### Week 2:
 
-Differentiate between the major categories of ML problems
-Place major ML methods in the context of their historical development
-Identify why deep learning is currently popular
+- Differentiate between the major categories of ML problems
+- Place major ML methods in the context of their historical development
+- Identify why deep learning is currently popular
 
 #### Week 3:
 
