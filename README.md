@@ -29,6 +29,14 @@ What is machine learning, and what kinds of problems can it solve? Google thinks
 ### Course 2: Launching into Machine Learning
 Starting from a history of machine learning, we discuss why neural networks today perform so well in a variety of data science problems. We then discuss how to set up a supervised learning problem and find a good solution using gradient descent. This involves creating datasets that permit generalization; we talk about methods of doing so in a repeatable way that supports experimentation.
 
+#### Week 2:
+
+- Identify why deep learning is currently popular
+- Optimize and evaluate models using loss functions and performance metrics
+- Mitigate common problems that arise in machine learning
+- Create repeatable training, evaluation, and test datasets
+
+
 
 ### Course 3: Introduction to TensorFlow
 This course is focused on using the flexibility and “ease of use” of TensorFlow 2.x and Keras to build, train, and deploy machine learning models. You will learn about the TensorFlow 2.x API hierarchy and will get to know the main components of TensorFlow through hands-on exercises. We will introduce you to working with datasets and feature columns. You will learn how to design and build a TensorFlow 2.x input data pipeline. You will get hands-on practice loading csv data, numPy arrays, text data, and images using tf.Data.Dataset. You will also get hands-on practice creating numeric, categorical, bucketized, and hashed feature columns.
