@@ -5,7 +5,7 @@ This repository contains all my solutions for the Machine Learning with TensorFl
 My Certification : https://www.coursera.org/account/accomplishments/specialization/certificate/27WYFAS26JUR
 
 ### Course 1: How Google does Machine Learning
-What is machine learning, and what kinds of problems can it solve? Google thinks about machine learning slightly differently -- of being about logic, rather than just data. We talk about why such a framing is useful for data scientists when thinking about building a pipeline of machine learning models
+What is machine learning, and what kinds of problems can it solve? Google thinks about machine learning slightly differently -- of being about logic, rather than just data. We talk about why such a framing is useful for data scientists when thinking about building a pipeline of machine learning models.
 
 #### Week 1:
 
