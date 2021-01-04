@@ -22,7 +22,7 @@ What is machine learning, and what kinds of problems can it solve? Google thinks
 - Analyze data using AI Platform Notebooks and BigQuery
 - Describe computation and storage needs
 
-
+   
 
 
    
