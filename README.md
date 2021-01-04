@@ -9,7 +9,7 @@ What is machine learning, and what kinds of problems can it solve? Google thinks
 
 #### Week 1:
 
-- Use machine learning to transform the way you do business
+- Use machine learning to transform the way you do business  
 
 
 #### Week 2:
