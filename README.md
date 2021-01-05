@@ -119,3 +119,10 @@ Want to know how you can improve the accuracy of your ML models? What about how 
 
 ### Course 5: Art and Science of Machine Learning
 Welcome to the Art and Science of machine learning. This course is delivered in 6 modules. The course covers the essential skills of ML intuition, good judgment and experimentation needed to finely tune and optimize ML models for the best performance. You will learn how to generalize your model using Regularization techniques and about the effects of hyperparameters such as batch size and learning rate on model performance. We’ll cover some of the most common model optimization algorithms and show you how to specify an optimization method in your TensorFlow code.
+
+#### Week 1:
+
+Generalize a ML model using Regularization techniques
+Tune batch size and learning rate for better model performance
+Optimize your model
+Apply the concepts in TensorFlow code
