@@ -9,18 +9,18 @@ What is machine learning, and what kinds of problems can it solve? Google thinks
 
 #### Week 1:
 
-- Use machine learning to transform the way you do business.
+- Use machine learning to transform the way you do business
 
 
 #### Week 2:
 
-- Acquire the organizational know-how to implement machine learning.
-- Leverage Google's experience to avoid common pitfalls.
+- Acquire the organizational know-how to implement machine learning
+- Leverage Google's experience to avoid common pitfalls
 
 #### Week 3:
 
-- Analyze data using AI Platform Notebooks and BigQuery.
-- Describe computation and storage needs.
+- Analyze data using AI Platform Notebooks and BigQuery
+- Describe computation and storage needs
    
 
 
