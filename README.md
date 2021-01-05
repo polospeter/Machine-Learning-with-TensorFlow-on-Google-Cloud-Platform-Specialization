@@ -122,7 +122,12 @@ Welcome to the Art and Science of machine learning. This course is delivered in 
 
 #### Week 1:
 
-Generalize a ML model using Regularization techniques
-Tune batch size and learning rate for better model performance
-Optimize your model
-Apply the concepts in TensorFlow code
+- Generalize a ML model using Regularization techniques
+- Tune batch size and learning rate for better model performance
+- Optimize your model
+- Apply the concepts in TensorFlow code
+
+#### Week 2:
+
+
+#### Week 3:
