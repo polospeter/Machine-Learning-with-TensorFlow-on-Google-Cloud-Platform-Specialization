@@ -129,5 +129,7 @@ Welcome to the Art and Science of machine learning. This course is delivered in 
 
 #### Week 2:
 
-
+- Differentiate between parameters and hyperparameters
+- Think beyond simple grid search algorithms
+- Take advantage of Cloud ML Engine for hyperparameter tuning
 #### Week 3:
