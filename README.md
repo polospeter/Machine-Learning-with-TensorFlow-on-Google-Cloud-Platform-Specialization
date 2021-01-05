@@ -101,12 +101,20 @@ Want to know how you can improve the accuracy of your ML models? What about how 
 
 #### Week 2:
 
-Describe Apache Beam and Cloud DataFlow
-Describe pre-processing with Cloud Data Prep
+- Describe Apache Beam and Cloud DataFlow
+- Describe pre-processing with Cloud Data Prep
 
 #### Week 3:
 
+- Recognize why feature crosses are a powerful way to help machines learn
+Implement feature crosses in TensorFlow
+Incorporate feature creation as part of your ML pipeline
+Perform advanced feature engineering using BQML and Keras/TensorFlow 2.x
+
 #### Week 4:
+
+Implement feature preprocessing and feature creation using tf.transform
+Carry out feature processing efficiently, at scale and on streaming data
 
 
 ### Course 5: Art and Science of Machine Learning
