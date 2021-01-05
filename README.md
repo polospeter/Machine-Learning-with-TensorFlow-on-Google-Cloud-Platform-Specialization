@@ -101,6 +101,9 @@ Want to know how you can improve the accuracy of your ML models? What about how 
 
 #### Week 2:
 
+Describe Apache Beam and Cloud DataFlow
+Describe pre-processing with Cloud Data Prep
+
 #### Week 3:
 
 #### Week 4:
