@@ -59,6 +59,38 @@ Starting from a history of machine learning, we discuss why neural networks toda
 ### Course 3: Introduction to TensorFlow
 This course is focused on using the flexibility and “ease of use” of TensorFlow 2.x and Keras to build, train, and deploy machine learning models. You will learn about the TensorFlow 2.x API hierarchy and will get to know the main components of TensorFlow through hands-on exercises. We will introduce you to working with datasets and feature columns. You will learn how to design and build a TensorFlow 2.x input data pipeline. You will get hands-on practice loading csv data, numPy arrays, text data, and images using tf.Data.Dataset. You will also get hands-on practice creating numeric, categorical, bucketized, and hashed feature columns.
 
+#### Week 1:
+
+- Understand the key components of TensorFlow
+- Use the tf.data library to manipulate data and large datasets
+- Create machine learning models in TensorFlow
+- Use Keras sequential and functional APIs for model creation with Tensorflow 2.x
+- Train, deploy, and productionize ML models at scale with Cloud AI Platform
+
+#### Week 2:
+
+- Load csv data using Pandas
+- Load numpy arrays with tf.data.Dataset
+- Load data using tf.data.Dataset
+- Create multiple types of feature columns
+- Create an input pipeline using tf.data
+
+#### Week 3:
+
+- Understand how activation functions, loss and optimizers work
+- Build a DNN model using the Keras Sequential API
+- Learn how to use feature columns in a Keras model
+- Learn how to train a model with Keras
+- Learn how to save/load, and deploy a Keras model on Google Cloud AI Platform
+- Learn how to deploy and make predictions with at Keras model
+
+
+#### Week 4:
+
+- Understand embeddings and how to create them with the feature column API
+- Understand Deep and Wide models and when to use them
+- Understand the Keras Functional API and how to build a deep and wide model with it
+- Understand how regularization can help improve the performance of a model.
 
 ### Course 4: Feature Engineering
 Want to know how you can improve the accuracy of your ML models? What about how to find which data columns make the most useful features? Welcome to Feature Engineering where we will discuss good vs bad features and how you can preprocess and transform them for optimal use in your models.
