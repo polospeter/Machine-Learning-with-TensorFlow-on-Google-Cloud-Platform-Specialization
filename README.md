@@ -133,7 +133,7 @@ Welcome to the Art and Science of machine learning. This course is delivered in 
 - Think beyond simple grid search algorithms
 - Take advantage of Cloud ML Engine for hyperparameter tuning
 
-#### Week :
+#### Week 3:
 
 - How to train Neural Networks effectively
 - How to work with multi-class Neural Networks
