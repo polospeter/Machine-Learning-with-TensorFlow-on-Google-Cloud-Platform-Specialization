@@ -90,7 +90,7 @@ This course is focused on using the flexibility and “ease of use” of TensorF
 - Understand embeddings and how to create them with the feature column API
 - Understand Deep and Wide models and when to use them
 - Understand the Keras Functional API and how to build a deep and wide model with it
-- Understand how regularization can help improve the performance of a model.
+- Understand how regularization can help improve the performance of a model
 
 ### Course 4: Feature Engineering
 Want to know how you can improve the accuracy of your ML models? What about how to find which data columns make the most useful features? Welcome to Feature Engineering where we will discuss good vs bad features and how you can preprocess and transform them for optimal use in your models.
