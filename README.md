@@ -1,7 +1,7 @@
 # Machine-Learning-with-TensorFlow-on-Google-Cloud-Platform-Specialization
 
 This repository contains all my solutions for the Machine Learning with TensorFlow on Google Cloud Platform Specialization on Coursera provided by Google.
-Link to course: https://www.coursera.org/specializations/machine-learning-tensorflow-gcp
+Link to specialization: https://www.coursera.org/specializations/machine-learning-tensorflow-gcp
 
 My Certification : https://www.coursera.org/account/accomplishments/specialization/certificate/27WYFAS26JUR
 
